@@ -1,1 +1,4 @@
-# Stepik-Auto-Tests-Course
+Данный репозиторий содержит решения практических заданий курса [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/promo).
+
+
+ 
